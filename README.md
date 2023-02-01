@@ -1,2 +1,3 @@
 # 2022l4web-promotion-project-Toumas29
-2022l4web-promotion-project-Toumas29 created by GitHub Classroom
+
+This project is hosted by [GITHUB](https://pslib-cz.github.io/2022l4web-promotion-project-Toumas29/)
